@@ -18,5 +18,6 @@ I'm a second-year economics PhD student at Emory University. My research interes
 
 Contact information:
 [michelle.tao@emory.edu](michelle.tao@emory.edu).
+
 R. Randall Rollins Building, R400-A1
 1516 Clifton Road, Atlanta GA 30322 
