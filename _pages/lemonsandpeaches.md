@@ -5,7 +5,7 @@ permalink: /econphdprograms/
 title: Lemons, peaches, and Econ PhD programs
 description: 
 nav: false
-hidden: true
+hidden: false
 ---
 
 ## Lemons, peaches, and econ PhD programs 
