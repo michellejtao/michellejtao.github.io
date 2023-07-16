@@ -1,10 +1,10 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: cv
 nav: true
 order: 2
 ---
-You can download my CV [here]("michellejtao.github.io/assets/pdf/CV.pdf").
-
-<embed src="/assets/pdf/CV.pdf" type="application/pdf"/>
+<a href="/assets/pdf/CV.pdf">Open in browser</a>
+<br> <br>
+<embed src="/assets/pdf/CV.pdf" width="900" height="1100" type="application/pdf">
