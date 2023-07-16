@@ -7,7 +7,7 @@ description:
 nav: true
 ---
 
-A list of links I came across and found useful. 
+A list of links I came across and found useful
       
 ### Data/workflow 
 * [Matthew Gentzkow and Jesse Shapiro's handbook for organizing your workflow for empirical research](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
