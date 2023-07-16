@@ -1,8 +1,8 @@
 
 ---
 layout: page
-permalink: /econphdprograms/
 title: Lemons, peaches, and Econ PhD programs
+permalink: /econphdprograms/
 description: 
 nav: false
 hidden: false
