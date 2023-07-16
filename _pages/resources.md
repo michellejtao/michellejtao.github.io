@@ -25,4 +25,4 @@ A list of links I came across and found useful
 ## Misc.
 * [The PhD memoir by Philip Guo](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0), an easy read that describes the author's computer science PhD experience. The overall PhD experience is somewhat universal across fields, and many important lessons apply to economics
 * [The powerlifting professor](https://www.hbs.edu/news/articles/Pages/powerlifting-professor.aspx), interview with Lauren Cohen (professor of business administration at HBS and professional powerlifter) on the parallels of powerlifting and research 
-* [Lemons, peaches, and econ PhD programs](https://michellejtao.github.io/_pages/lemonsandpeaches.md), a short procrastination piece I wrote when I was deciding which offer to accept 
+* [Lemons, peaches, and econ PhD programs]{% link _pages/lemonsandpeaches.md %}, a short procrastination piece I wrote when I was deciding which offer to accept 
