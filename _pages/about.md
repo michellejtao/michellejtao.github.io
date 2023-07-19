@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently a second-year economics Ph.D. student at Emory University. Prior to Emory, I was a research assistant at the Institute for Fiscal Studies at Tsinghua University. I earned my B.A. from New York University with a major in Economics and a minor in Politics. My research interests lie in empirical macroeconomics and labor economics. I am from Hong Kong. Outside of economics, I enjoy powerlifting, hiking, and cooking. 
+I am a second-year economics Ph.D. student at Emory University from Hong Kong. Prior to Emory, I was a research assistant at the Institute for Fiscal Studies at Tsinghua University. I earned my B.A. from New York University with a major in Economics and a minor in Politics. My research interests lie in empirical macroeconomics and labor economics. Outside of economics, I enjoy powerlifting, hiking, and cooking. 
 
 You can contact me via email at [michelle.tao@emory.edu](michelle.tao@emory.edu), or in person (R. Randall Rollins Building, R400-A1). 
 
-You can also find me on [Twitter](https://twitter.com/TaoMichelle), [GitHub](https://github.com/michellejtao), and [LinkedIn](https://www.linkedin.com/in/michellejtao/) 
+You can also find me on [Twitter](https://twitter.com/TaoMichelle), [LinkedIn](https://www.linkedin.com/in/michellejtao/) and [GitHub](https://github.com/michellejtao).
