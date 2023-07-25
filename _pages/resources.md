@@ -7,11 +7,6 @@ description:
 nav: true
 ---
 
-### RA/pre-doc 
-* [Econ RA guide](https://raguide.github.io)
-* [NBER RA listings](https://www.nber.org/career-resources/research-assistant-positions-not-nber)
-* [Twitter account that regularly posts RA listings](https://twitter.com/econ_ra?lang=en)
-
 ### Applying to Econ PhD programs 
 * [Susan Athey's advice](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
 * [Chris Blattman's FAQ on PhD applications](https://chrisblattman.com/blog/2022/03/25/faqs-on-phd-applications/)
