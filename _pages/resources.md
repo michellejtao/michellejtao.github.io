@@ -16,7 +16,7 @@ nav: true
 * [Matthew Gentzkow and Jesse Shapiro's handbook](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf), excellent tips for organizing your workflow for empirical research
 * [Published econ papers with data](https://ejd.econ.mathematik.uni-ulm.de) (good for replication practice)
 * [Steve Pischke on how to get started on research in economics](https://econ.lse.ac.uk/staff/spischke/phds/get_started.pdf)
-* [CEPR online seminar series on a range of topics](https://cepr.org/events/event-series/online-event-series)
+* [CEPR online seminar series](https://cepr.org/events/event-series/online-event-series) on a range of topics
 * [NBER Summer Institute lectures](https://www.nber.org/research/lectures?page=1&perPage=50)
 * [Literature review on recent advances in applied micro by Christine Cai](https://christinecai.github.io/PublicGoods/applied_micro_methods_dark_mode.pdf)
  
