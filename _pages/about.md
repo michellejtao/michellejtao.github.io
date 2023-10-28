@@ -19,4 +19,4 @@ I am a second-year economics Ph.D. student at Emory University. Prior to Emory, 
 
 You can contact me via email at [michelle.tao@emory.edu](michelle.tao@emory.edu), or in person (R. Randall Rollins Building, R400-A1). 
 
-You can also find me on [Twitter](https://twitter.com/TaoMichelle), [LinkedIn](https://www.linkedin.com/in/michellejtao/) and [GitHub](https://github.com/michellejtao).
+You can also find me on [Twitter/X](https://twitter.com/TaoMichelle), [Linkedin](https://www.linkedin.com/in/michellejtao/) and [GitHub](https://github.com/michellejtao).
