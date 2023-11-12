@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /powerlifting
+permalink: /powerlifting/
 title: So what do you like to do outside of economics?
 order: 5
 nav: false
