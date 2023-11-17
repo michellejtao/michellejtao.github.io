@@ -23,4 +23,4 @@ nav: true
 * [The PhD memoir by Philip Guo](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0), an easy read that describes the author's computer science PhD experience. The overall PhD experience is somewhat universal across fields, and many important lessons apply to economics
 * [The powerlifting professor](https://www.hbs.edu/news/articles/Pages/powerlifting-professor.aspx), interview with Lauren Cohen (professor of business administration at HBS and professional powerlifter) on the parallels of powerlifting and research 
 * [Lemons, peaches, and econ PhD programs]({% link _pages/lemonsandpeaches.md %}), a short procrastination piece I wrote when I was deciding which offer to accept
-* [Beamer tips by Paul Goldsmith-Pinkham](https://paulgp.github.io/beamer_tips.html), great resource for learning how to make your slides look nicer
+* [Beamer tips by Paul Goldsmith-Pinkham](https://paulgp.github.io/beamer_tips.html), a great resource for learning how to customize your slides
