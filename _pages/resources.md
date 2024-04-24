@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/
-title: Resources
+title: Public Goods
 order: 4
 description: 
 nav: true
