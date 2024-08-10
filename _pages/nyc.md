@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /nyc/
-title: Reflections, NYC 2024
+title: NYC, 2024
 order: 6
 nav: false
 hidden: false
@@ -18,4 +18,4 @@ As I walked around, I felt like I knew this place so well, yet I was seeing it w
 
 Old friends feel like vacuum-sealed memories of who I used to be, or at least a forgotten part of me. I caught a glimpse of what my life would be like and who I might have become if I had stayed. On one hand, conversing with them feels so natural, with familiar banter and old jokes, as if the last few years were on pause and we pressed resume like nothing had changed. Old memories, feelings, and inside jokes resurfaced, falling into place as effortlessly as they always had. Yet, at the same time, so much has. People change — new jobs, new degrees, new family members. I have changed too — I’m no longer the same person who first stepped through that door eight years ago. The friendships and connections are still there, but they have evolved, just as we have. 
 
-A tourist on the subway platform asked if I lived here. I shook my head, gave a bittersweet smile, and offered to help with directions. As the train pulled into the station, the familiar voice over the speakers announced the next stop. This train, which once carried me around the city, now carries me through memories — back to the life I had here and forward to where I am now. As an old friend said, "Appreciate the past, but look forward to the future." I stepped onto the train, ready for the next stop.
+A tourist on the subway platform asked if I live here. I shook my head with a bittersweet smile and offered to help with directions. As the train pulled into the station, the familiar voice over the speakers announced the next stop. This train, which once carried me around the city, now carries me through memories — back to the life I had here and forward to where I am now. As an old friend said, "Appreciate the past, but look forward to the future." I stepped onto the train, ready for the next stop.
