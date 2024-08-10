@@ -24,4 +24,5 @@ nav: true
 * [The powerlifting professor](https://www.hbs.edu/news/articles/Pages/powerlifting-professor.aspx), interview with Lauren Cohen (professor of business administration at HBS and professional powerlifter) on the parallels of powerlifting and research 
 * [Lemons, peaches, and econ PhD programs]({% link _pages/lemonsandpeaches.md %}), a short procrastination piece I wrote when I was deciding which offer to accept
 * [Beamer tips by Paul Goldsmith-Pinkham](https://paulgp.github.io/beamer_tips.html), a great resource for learning how to customize your slides
-* [What is a PhD?](https://matt.might.net/articles/phd-school-in-pictures/), a fun visual guide that explains what a PhD is (and puts things in perspective for current PhD students)
+* [What is a PhD?](https://matt.might.net/articles/phd-school-in-pictures/) A fun visual guide that explains what a PhD is (and puts things in perspective for current PhD students)
+* [Reflections on NYC]({% link _pages/nyc.md %}), I like to write when I feel emotional 
