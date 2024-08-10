@@ -8,7 +8,7 @@ hidden: false
 description: 
 ---
 
-People describe New York City as a revolving door — people come and go, the door keeps spinning, but the city itself remains the same in a lot of ways. It has been more than four years since I was last in New York City, and eight years since I first set foot here. So much has changed, yet so little at the same time.
+People describe New York City as a revolving door — people come and go, the door keeps spinning, but the city itself remains the same in a lot of ways. It has been more than four years since I was last in the city, and eight years since I first set foot here. So much has changed, yet so little at the same time.
 
 My favorite restaurant in Chinatown has moved to a bigger location across the street, but the dumplings still taste the same, and the owner is still there. My favorite ice cream shop no longer sells my go-to flavor, but the new options on the menu are just as good. New shops and restaurants have popped up. Some frequently visited shops have closed, while others have remained. But the feel of the city, its pace and its energy, hasn’t really changed. I still feel a sense of awe when the hot wind blows through my hair and the ground rumbles as the train pulls into the station. 
 
