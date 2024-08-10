@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /nyc/
-title: Reflections: NYC 2024
+title: Reflections, NYC 2024
 order: 5
 nav: false
 hidden: false
