@@ -7,11 +7,6 @@ description:
 nav: true
 ---
 
-### Applying to Econ PhD programs 
-* [Susan Athey's advice](https://gsb-faculty.stanford.edu/susan-athey/professional-advice/)
-* [Chris Blattman's FAQ on PhD applications](https://chrisblattman.com/blog/2022/03/25/faqs-on-phd-applications/)
-* [Resources for students by the AEA](https://www.aeaweb.org/resources/students)
-
 ### Getting started with research 
 * [Matthew Gentzkow and Jesse Shapiro's handbook](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf), excellent tips for organizing your workflow for empirical research
 * [Published econ papers with data](https://ejd.econ.mathematik.uni-ulm.de) (good for replication practice)
@@ -21,6 +16,7 @@ nav: true
 
 ### While in grad school 
 * [Beamer tips by Paul Goldsmith-Pinkham](https://paulgp.github.io/2018/04/30/beamer-tips.html), a great resource for learning how to customize your slides
+* [Presentation tips by Jesse Shapiro](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf) 
 * [Major conference deadlines](https://sangmino.github.io/deadlines/), helpful list with deadlines compiled by Sangmin Simon Oh
 
 ### Misc.
