@@ -4,8 +4,8 @@
  ******************************************************************************/
 
 // Typography
-$sans-serif:          -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$global-font-family:  $sans-serif: "Lora", Georgia, serif;
+$sans-serif:          -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", "Georgia", Arial, sans-serif;
+$global-font-family:  $sans-serif;
 
 // Colors
 $red-color:           #FF3636 !default;
