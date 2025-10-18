@@ -1,13 +1,20 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: false
-hidden: true
+hidden: false
 nav_order: 5
 ---
+### Instructor
+#### ECON 112: Principles of Macroeconomics 
+Fall 2025, Syllabus, Course Materials
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+### Teaching Assistant 
+##### ECON 212: Intermediate Macroeconomics
+Fall 2023, Fall 2024 
+#### ECON 201: Intermediate Microeconomics (Math Review)
+Fall 2025 
+#### ECON 320: Econometrics 
+Spring 2024 
