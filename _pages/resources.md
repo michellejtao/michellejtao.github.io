@@ -5,6 +5,7 @@ title: Public Goods
 order: 5
 description: 
 nav: true
+nav_order: 5
 ---
 
 ##### Getting started with research 
