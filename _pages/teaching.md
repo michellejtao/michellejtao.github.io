@@ -1,13 +1,12 @@
 ---
 layout: page
 permalink: /teaching/
-title: 
+title: Teaching
 description: 
 nav: true
 hidden: false
 nav_order: 5
 ---
-#### Teaching
 ##### Instructor
 * ECON 112: Principles of Macroeconomics, Fall 2025
   * [Syllabus](https://github.com/michellejtao/econ112/blob/main/ECON112_Syllabus.pdf) 
