@@ -1038,10 +1038,20 @@ nav[data-toggle="toc"] {
   }
 }
 
-.post-title {
-  font-size: 0.5rem; /* adjust to whatever size you want */
-  font-weight: 600; /* optional: make it slightly bolder or remove this line */
-  text-align: center; /* optional: center the title */
-  margin-top: 1.5rem; /* optional spacing tweak */
+/* --- Custom page title override --- */
+h1.post-title {
+  font-size: 2rem !important; /* try 2rem or 2.5rem depending on taste */
+  font-weight: 600;           /* optional: adjust thickness */
+  text-align: center;         /* center title horizontally */
+  margin-top: 1.5rem;         /* spacing above */
+  margin-bottom: 1.5rem;      /* spacing below */
+  color: var(--global-text-color); /* ensure color matches theme */
+}
+
+/* Optional: make the title smaller on phones */
+@media (max-width: 576px) {
+  h1.post-title {
+    font-size: 1.5rem !important;
+  }
 }
 
