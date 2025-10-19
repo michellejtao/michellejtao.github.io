@@ -5,7 +5,7 @@ title: Teaching
 description: 
 nav: true
 hidden: false
-nav_order: 4
+order: 4
 ---
 ##### Instructor
 * ECON 112: Principles of Macroeconomics, Fall 2025
