@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teachinb/
+permalink: /teaching/
 title: Teaching
 order: 4
 description: 
