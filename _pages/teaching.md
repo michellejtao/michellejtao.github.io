@@ -10,7 +10,7 @@ nav_order: 4
 
 ##### Instructor
 * ECON 112: Principles of Macroeconomics, Fall 2025
-  * [Syllabus](https://github.com/michellejtao/econ112/blob/main/ECON112_Syllabus.pdf) 
+  * [Syllabus](https://github.com/michellejtao/principles-macro/blob/main/syllabus.pdf) 
 
 ##### Teaching Assistant 
 * ECON 212: Intermediate Macroeconomics, Fall 2023, 2024
