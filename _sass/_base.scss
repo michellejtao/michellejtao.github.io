@@ -1044,6 +1044,7 @@ h1.post-title {
   margin-top: 1.5rem;         /* spacing above */
   margin-bottom: 1.5rem;      /* spacing below */
   color: var(--global-text-color); /* ensure color matches theme */
+  text-align: left !important;
 }
 
 /* Optional: make the title smaller on phones */
