@@ -1040,8 +1040,7 @@ nav[data-toggle="toc"] {
 
 /* --- Custom page title override --- */
 h1.post-title {
-  font-size: 2rem !important; /* try 2rem or 2.5rem depending on taste */
-  font-weight: 600;           /* optional: adjust thickness */
+  font-size: 1.5rem !important; /* try 2rem or 2.5rem depending on taste */
   margin-top: 1.5rem;         /* spacing above */
   margin-bottom: 1.5rem;      /* spacing below */
   color: var(--global-text-color); /* ensure color matches theme */
@@ -1050,7 +1049,7 @@ h1.post-title {
 /* Optional: make the title smaller on phones */
 @media (max-width: 576px) {
   h1.post-title {
-    font-size: 2rem !important;
+    font-size: 1.5rem !important;
   }
 }
 
