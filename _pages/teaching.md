@@ -5,6 +5,7 @@ title: Teaching
 order: 4
 description: 
 nav: true
+nav_order: 4
 ---
 
 ##### Instructor
