@@ -9,5 +9,5 @@ description:
 ##### Working Papers
 [The Missing Homebuyers: Demographic Changes and Financial Constraints](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5692103)
 
-<span style="color: var(--global-theme-color);">Presentations:</span> UEA Summer School, Federal Reserve Bank of Philadelphia, UEA North American Meeting
+<span style="color: var(--global-theme-color);">Presentations:</span> UEA Summer School, Federal Reserve Bank of Philadelphia, UEA North American Meeting, AREUEA-ASSA Doctoral Poster Session
 
