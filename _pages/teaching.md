@@ -13,6 +13,7 @@ nav_order: 4
   * [Syllabus](https://github.com/michellejtao/principles-macro/blob/main/syllabus.pdf) 
 
 ##### Teaching Assistant 
+* ECON 201: Intermediate Microeconomics (Math Review), Fall 2025, Spring 2026
+* ECON 350: Economics of Systemtic Racism, Spring 2026
 * ECON 212: Intermediate Macroeconomics, Fall 2023, 2024
-* ECON 201: Intermediate Microeconomics (Math Review), Fall 2025
 * ECON 320: Econometrics, Spring 2024 
