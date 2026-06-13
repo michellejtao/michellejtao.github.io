@@ -16,7 +16,7 @@ nav_order: 5
 * [NBER Summer Institute lectures](https://www.nber.org/research/lectures?page=1&perPage=50)
 
 ##### While in grad school 
-* [Presentation tips](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf) by Jesse Shapiro
+* [How to give an applied micro talk](https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf) by Jesse Shapiro
 * [Beamer tips](https://paulgp.github.io/2018/04/30/beamer-tips.html) by Paul Goldsmith-Pinkham, a great resource for learning how to customize your slides
 * [Major conference deadlines](https://sangmino.github.io/deadlines/), helpful list with deadlines compiled by Sangmin Simon Oh 
 * [Claude Code workflow for economists](https://adrienmatray-ai.com/index.html) by Adrien Matray
