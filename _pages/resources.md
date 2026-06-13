@@ -16,10 +16,11 @@ nav_order: 5
 * [NBER Summer Institute lectures](https://www.nber.org/research/lectures?page=1&perPage=50)
 
 ##### While in grad school 
-* [Beamer tips by Paul Goldsmith-Pinkham](https://paulgp.github.io/2018/04/30/beamer-tips.html), a great resource for learning how to customize your slides
 * [Presentation tips by Jesse Shapiro](https://scholar.harvard.edu/files/shapiro/files/applied_micro_slides.pdf) 
-* [Major conference deadlines](https://sangmino.github.io/deadlines/), helpful list with deadlines compiled by Sangmin Simon Oh
-
+* [Beamer tips by Paul Goldsmith-Pinkham](https://paulgp.github.io/2018/04/30/beamer-tips.html), a great resource for learning how to customize your slides
+* [Major conference deadlines](https://sangmino.github.io/deadlines/), helpful list with deadlines compiled by Sangmin Simon Oh 
+* [Claude Code workflow for economists](https://adrienmatray-ai.com/index.html) by Adrien Matray
+  
 ##### Misc.
 * [The PhD memoir by Philip Guo](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0), an easy read that describes the author's computer science PhD experience. The overall PhD experience is somewhat universal across fields, and many important lessons apply to economics
 * [The powerlifting professor](https://www.hbs.edu/news/articles/Pages/powerlifting-professor.aspx), interview with Lauren Cohen (professor of business administration at HBS and professional powerlifter) on the parallels of powerlifting and research 
