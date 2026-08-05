@@ -20,6 +20,7 @@ nav_order: 5
 * [Beamer tips](https://paulgp.github.io/2018/04/30/beamer-tips.html) by Paul Goldsmith-Pinkham, a great resource for learning how to customize your slides
 * [Major conference deadlines](https://sangmino.github.io/deadlines/), helpful list with deadlines compiled by Sangmin Simon Oh 
 * [Claude Code workflow for economists](https://adrienmatray-ai.com/index.html) by Adrien Matray
+* [How to write a top 5 paper](https://jasonmfletcher.substack.com/p/how-to-write-a-top-5-paper-a-case) by Jason Fletcher, helpful tips on how to frame a paper
   
 ##### Misc.
 * [The PhD memoir by Philip Guo](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0), an easy read that describes the author's computer science PhD experience. The overall PhD experience is somewhat universal across fields, and many important lessons apply to economics
