@@ -21,6 +21,7 @@ nav_order: 5
 * [Major conference deadlines](https://sangmino.github.io/deadlines/), helpful list with deadlines compiled by Sangmin Simon Oh 
 * [Claude Code workflow for economists](https://adrienmatray-ai.com/index.html) by Adrien Matray
 * [How to write a top 5 paper](https://jasonmfletcher.substack.com/p/how-to-write-a-top-5-paper-a-case) by Jason Fletcher, helpful tips on how to frame a paper
+* Nick Hagerty's [Reflections on Grad School in Economics](https://raw.githack.com/hagertynw/grad-school-reflections/master/grad_school_reflections.pdf)
   
 ##### Misc.
 * [The PhD memoir by Philip Guo](https://www.dropbox.com/s/5c70typ50be0d9l/pguo-PhD-grind.pdf?dl=0), an easy read that describes the author's computer science PhD experience. The overall PhD experience is somewhat universal across fields, and many important lessons apply to economics
